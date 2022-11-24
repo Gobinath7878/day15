@@ -14,11 +14,11 @@ body{
     justify-content: center;
 }
 .calculator{
-    background-color: white;
+    background-color:#2e4053;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 7px 5px 5px 5px grey;
-                  
+    box-shadow: inset 0px 5px 10px rgb(236, 235, 231);
+
     display: grid;
     grid-template-columns: repeat(4,70px);                   
 }
